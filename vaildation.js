@@ -1,4 +1,4 @@
-const number = '123';
+const number = 23;
 if(typeof number === 'number'){
 
 }
