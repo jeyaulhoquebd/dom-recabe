@@ -10,7 +10,7 @@ else{
 }
 
 const numbers = [3, 12, 78, 90];
-console.log(typeof numbers);
+console.log(Array.isArray (numbers));
 
 const student = {name : 'Rongila Rafsan', job: 'khawadawa kora'}
 console.log(typeof student);
